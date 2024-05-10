@@ -1,0 +1,38 @@
+body{
+    background-color: lightgrey;
+}
+h1{
+    text-align: center;
+}
+.firstContainer{
+    background-image: url("https://cdn.pixabay.com/photo/2016/09/16/14/24/machu-picchu-1674143_1280.jpg");
+    opacity: 0.7;
+    text-align: center;
+}
+.welcomeBaby{
+    display: flex;
+    font-style: italic;
+    font-size: 40px;
+    text-align: center;
+}
+.welcomeText{
+    font-style: italic;
+    font-size: 25px;
+    color: white;
+}
+.readButton{
+    font-style: italic;
+    font-size: 20px;
+}
+.secondTittle{
+    text-align: center; 
+    font-style: italic;
+    font-size: 25px;
+
+}
+.secondContainer{
+    column-count: 2;
+    column-gap: 80px;
+    text-align: center;
+    column-width: 250px;
+  }
